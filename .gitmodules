@@ -1,0 +1,3 @@
+[submodule "blocklists/LDNOOBW"]
+	path = blocklists/LDNOOBW
+	url = git@github.com:LunaCodeDemon/LDNOOBW.git
